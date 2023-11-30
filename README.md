@@ -1,4 +1,4 @@
-<img width="361" alt="image" src="https://github.com/Lweihan/Replication_of_AD-NeRF_Model/assets/100833228/8b5afbbc-a707-4c9c-a2f4-8095b0180030">|**实验报告**||
+|**实验报告**||
 | :-: | - |
 |**实验名称**||
 |**实验人员**||**实验类型**|复现与分析报告|
